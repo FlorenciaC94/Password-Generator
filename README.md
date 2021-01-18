@@ -22,7 +22,7 @@ The application will then generate a password that meets all the criteria select
 
 # Installation
 
-To look at the improvements, comments, and contribute changes you can acces GitLab's Web Editor. Follow these instructions to do so: ("https://docs.gitlab.com/ee/user/project/repository/web_editor.html#tips") When accessing the project's repository, you will be able to see the files in this project including the HTML, CSS, and JavaScript documents.
+To look at the improvements, comments, and contribute changes you can acces GitHub's Web Editor. Follow these instructions to do so: ("https://docs.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository") When accessing the project's repository, you will be able to see the files in this project including the HTML, CSS, and JavaScript documents.
 
 # Credits
 https://www.theamplituhedron.com/projects/JavaScript-Random-Password-Generator/
