@@ -13,6 +13,7 @@ Lower Case characters
 Special symbols
 
 [Special Characters screenshot](assets/special-characters.png)
+
 Password Length
 
 [Password Length screenshot](assets/length.png)
